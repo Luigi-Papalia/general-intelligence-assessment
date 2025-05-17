@@ -5,7 +5,7 @@ export const categories = [
   ["Tigre", "León", "Jaguar", "Leopardo", "Guepardo"],
   ["Impredecible", "Errático", "Volátil", "Inconstante", "Inconsistente"],
   ["Piano", "Violín", "Violonchelo", "Guitarra", "Arpa"],
-  ["Navegar", "Dirigir", "Guiar", "Conducir", "Pilotar"],
+  ["Navegar", "Dirigir", "Guiar", "onducir", "Pilotar"],
   ["Desolado", "Árido", "Vacío", "Solitario", "Abandonado"],
   ["Médico", "Enfermera", "Cirujano", "Paramédico", "Doctor"],
   ["Brillante", "Reluciente", "Luminoso", "Radiante", "Resplandeciente"],
